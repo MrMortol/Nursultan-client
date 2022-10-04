@@ -1,0 +1,20 @@
+Uri: https://nursultan.fun/
+File Name: c:\Downloaded Web Sites\nursultan.fun\index.htm
+Content Type: text/html
+
+Uri: https://nursultan.fun/static/css/main.98d3d4ef.css
+File Name: c:\Downloaded Web Sites\nursultan.fun\static\css\main.98d3d4ef.css
+Content Type: text/css
+
+Uri: https://nursultan.fun/static/js/main.cdfeae3a.js
+File Name: c:\Downloaded Web Sites\nursultan.fun\static\js\main.cdfeae3a.js
+Content Type: application/javascript
+
+Uri: https://nursultan.fun/static/media/logo.6a3903ab791af8e175ca.png
+File Name: c:\Downloaded Web Sites\nursultan.fun\static\media\logo.6a3903ab791af8e175ca.png
+Content Type: image/png
+
+Uri: https://nursultan.fun/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf
+File Name: c:\Downloaded Web Sites\nursultan.fun\static\media\OpenSans-Regular.77c09223204154ae8d43.bin
+Content Type: application/octet-stream
+
